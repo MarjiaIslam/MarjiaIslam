@@ -19,10 +19,16 @@ I graduated in Computer Science &amp; Engineering from United International Univ
 - **Testing & quality:** Unit and system testing, API testing with Postman, JUnit, PIT mutation testing
 - **Tools & technologies:** HTML, CSS, Jira, Figma, Git, GitHub, VS Code, Linux, LaTeX, React, Spring Boot, React Native, Expo, Firebase, MySQL, H2
 
-## Data Science & Machine Learning
+### Machine Learning
 
-- **Data analysis:** NumPy, pandas, Matplotlib
-- **Machine learning:** scikit-learn, TensorFlow, PyTorch
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
 
 ## Connect
 
